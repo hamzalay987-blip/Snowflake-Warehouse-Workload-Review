@@ -1,0 +1,6 @@
+fingerprint,elapsed_seconds,credits
+claims_by_provider,42,0.20
+claims_by_provider,44,0.21
+full_scan_orders,90,0.80
+full_scan_orders,92,0.84
+customer_lookup,4,0.01
